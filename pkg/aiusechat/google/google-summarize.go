@@ -20,7 +20,7 @@ const (
 	GoogleAPIURL = "https://generativelanguage.googleapis.com"
 
 	// SummarizeModel is the model used for file summarization
-	SummarizeModel = "gemini-2.5-flash-lite"
+	SummarizeModel = "gemini-3.1-flash-lite"
 
 	// Mode constants
 	ModeQuickSummary = "quick"

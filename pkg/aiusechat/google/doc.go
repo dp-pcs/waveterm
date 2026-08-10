@@ -35,7 +35,7 @@
 // # Configuration
 //
 // The summarization behavior can be customized by modifying the constants:
-//   - SummarizeModel: The Gemini model to use (default: "gemini-2.5-flash-lite")
+//   - SummarizeModel: The Gemini model to use (default: "gemini-3.1-flash-lite")
 //   - SummarizePrompt: The prompt sent to the model
 //   - GoogleAPIURL: The base URL for the API (for reference, not currently used by the SDK)
 package google
